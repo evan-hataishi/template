@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Evan Hataishi",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://techfolios.github.io/template/images/evan.jpg",
+    "email": "evanhata@hawaii.edu",
+    "phone": "808-386-7086",
+    "website": "https://evan-hataishi.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
@@ -17,43 +17,25 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "evan-hataishi",
+        "url": "http://github.com/evan-hataishi"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "evan-hataishi",
+        "url": "http://linkedin.com/in/evan-hataishi"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
+      "name": "Software Engineering"
     },
     {
-      "name": "data mining",
-      "keywords": [
-      ]
+      "name": "Performance"
     },
     {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
+      "name": "Data Networks"
     }
   ],
   "skills": [
