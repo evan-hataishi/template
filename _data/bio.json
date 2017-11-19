@@ -43,23 +43,23 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "NodeJS",
+        "Python",
+        "C",
+        "HTML/CSS"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows",
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Linux",
+        "Docker",
+        "SQL",
+        "git"
       ]
     }
   ],
@@ -68,78 +68,65 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2014-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.7",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "IBM Security Systems Performance",
+      "position": "Software Development Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2017-06-01",
+      "endDate": "2017-08-01",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed a ﬂexible performance benchmarking microservice with the ability to simulate concurrent user activity on IBM's Cloud Identity Connect"
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Research Assistant",
+      "website": "https://github.com/allthroughthenight/aces",
+      "startDate": "2016-10-01",
+      "endDate": "2017-08-01",
+      "highlights": [
+        "Extended and rebuilt the Automated Coastal Engineering System (ACES)",
+        "Responsible for architecture, building, testing and maintenance of system"
+      ]
+    },
+    {
+      "company": "eWorld Enterprise Solutions",
+      "position": "Software Development Intern",
+      "website": "http://www.eworldes.com/",
+      "startDate": "2016-05-01",
+      "endDate": "2017-05-01",
+      "highlights": [
+        "Developed multiple enterprise web applications for use by major state departments"
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Undergraduate Teaching Assistant",
+      "startDate": "2016-08-01",
+      "endDate": "2016-12-01",
+      "highlights": [
+        "Teach and assist lab sessions for ICS 211 (Data Structures)"
       ]
     },
     {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2015-05-01",
+      "endDate": "2016-05-01",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
