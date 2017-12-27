@@ -10,12 +10,11 @@ labels:
   - Raspberry PI
   - Meteor
 summary: Open source hardware, software, and data for low cost, crowd-sourced power quality monitoring, storage, and analysis.
-projecturl: http://openpowerquality.org
 ---
 
 <img class="ui medium right floated rounded image" src="{{ site.baseurl }}/images/opqbox-2.5.jpg">
 
-The Open Power Quality project explores open source hardware, software, and data for low cost, crowd-sourced power quality monitoring, storage, and analysis. 
+The Open Power Quality project explores open source hardware, software, and data for low cost, crowd-sourced power quality monitoring, storage, and analysis.
 
 In Hawaii, the high cost of energy combined with federal and state subsidies for photovoltaic installation has led to increasing penetration of distributed, intermittent generation in the grid. However, the impact of this change on power quality is not well understood.
 
