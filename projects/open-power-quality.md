@@ -45,3 +45,7 @@ research and trying different libraries out, we ended up with [this](https://git
 4. Verify the update package with the key and signature
 5. Unzip the update package
 6. Run the script file
+
+### Uptime analysis ###
+
+Most recently, I've been looking into some of the data that our boxes collect. Everyone thought it would be a good idea for me to get my feet wet in our data and database structure by doing some data analysis myself. Serge thought it may be useful for to have a tool that could run through all our data to find times where boxes may have been down by calculating uptimes between each record. Just scanning through the first 5000 records already yielded interesting data and provided us with insight on when our devices go down for large periods of time.
