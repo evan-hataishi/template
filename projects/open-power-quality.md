@@ -29,4 +29,12 @@ one before. When I asked him about them, he suggested that I come talk to him
 over the Summer to talk about his work and see if there would be something for
 me to do on the project. Eventually, towards the end of the Summer, I came into
 contact with Professor Johnson and the rest of the OPQ team, where they quickly
-ramped me up to everything on the project. 
+ramped me up to everything on the project, and I've been helping them out with
+it ever since.
+
+### My first project - OPQ package updater
+
+Since the plan is to eventually have the OPQ boxes distributed all around the
+island (most of them are currently in POST and some of the OPQ team's homes),
+we needed a way to update the boxes securely and remotely. After a lot of
+research and trying different libraries out, we ended up with [this](https://github.com/openpowerquality/opq/tree/master/box/Software/Updater).
