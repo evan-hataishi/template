@@ -19,7 +19,7 @@ The Open Power Quality project explores open source hardware, software, and data
 
 In Hawaii, the high cost of energy combined with federal and state subsidies for photovoltaic installation has led to increasing penetration of distributed, intermittent generation in the grid. However, the impact of this change on power quality is not well understood.
 
-### How I met the OPQ team
+### How I met the OPQ team ###
 
 I first joined the OPQ team in August of 2017. I had initially heard of the
 project during the Spring semester when coming in for help from my operating
@@ -32,9 +32,16 @@ contact with Professor Johnson and the rest of the OPQ team, where they quickly
 ramped me up to everything on the project, and I've been helping them out with
 it ever since.
 
-### My first project - OPQ package updater
+### My first project - OPQ package updater ###
 
 Since the plan is to eventually have the OPQ boxes distributed all around the
 island (most of them are currently in POST and some of the OPQ team's homes),
 we needed a way to update the boxes securely and remotely. After a lot of
 research and trying different libraries out, we ended up with [this](https://github.com/openpowerquality/opq/tree/master/box/Software/Updater).
+
+1. Download the version file (contains latest update info) from an OPQ server
+1. Compare the version file to the boxes local version file
+3. Download the public key, update package, and signature
+4. Verify the update package with the key and signature
+5. Unzip the update package
+6. Run the script file
