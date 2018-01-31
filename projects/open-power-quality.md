@@ -40,7 +40,7 @@ we needed a way to update the boxes securely and remotely. After a lot of
 research and trying different libraries out, we ended up with [this](https://github.com/openpowerquality/opq/tree/master/box/Software/Updater).
 
 1. Download the version file (contains latest update info) from an OPQ server
-1. Compare the version file to the boxes local version file
+2. Compare the version file to the boxes local version file
 3. Download the public key, update package, and signature
 4. Verify the update package with the key and signature
 5. Unzip the update package
